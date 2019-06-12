@@ -2,3 +2,21 @@
 ---
 
 @import "jekyll-theme-minimal";
+header {
+    padding-right: 290px; 
+}
+section {
+    width: 400px;
+    float: right;
+    padding-bottom: 50px; 
+}
+#AvatarPicture{
+    background-image: url('/assets/img/avatar.jpg');
+    height: 400px;
+    width: 400px;
+}
+#AvatarPicture:hover{
+    background-image: url('/assets/img/avatarBigHead.jpg');
+    height: 400px;
+    width: 400px;
+}
