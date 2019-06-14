@@ -8,7 +8,7 @@ layout: default
 * Created for fun and inspired by [QWOP](http://www.foddy.net/Athletics.html)
 * [Try playing (Work in Progress)](./assets/unity/ChopsticksWebBuild/chopsticks.html).
 
-[![Ciaran Fontein](/assets/img/ChopsticksScreenShot.jpg)](./assets/unity/ChopsticksWebBuild/chopsticks.html)
+[![Ciaran Fontein](/assets/img/ChopsticksScreenshot.jpg)](./assets/unity/ChopsticksWebBuild/chopsticks.html)
 
 * * *
 
@@ -18,7 +18,7 @@ layout: default
 * Shoot blocks into buckets to complete levels
 * [Try playing (Work in Progress)](./assets/unity/PrehapsWebBuild/prehaps.html).
 
-[![Ciaran Fontein](/assets/img/PrehapsScreenShot.jpg)](./assets/unity/PrehapsWebBuild/prehaps.html)
+[![Ciaran Fontein](/assets/img/PrehapsScreenshot.jpg)](./assets/unity/PrehapsWebBuild/prehaps.html)
 
 * * *
 
@@ -28,7 +28,7 @@ layout: default
 * Features include attribute leveling, story elements, day/night cycle, smooth UI elements and minigames
 * [Try playing (Work in Progress)](./assets/unity/BoneheadWebBuild/bonehead.html).
 
-[![Ciaran Fontein](/assets/img/BoneheadScreenShot.jpg)](./assets/unity/PrehapsWebBuild/bonehead.html)
+[![Ciaran Fontein](/assets/img/BoneheadScreenshot.jpg)](./assets/unity/PrehapsWebBuild/bonehead.html)
 
 * * *
 
@@ -38,4 +38,4 @@ layout: default
 * Utilizing sound clips from Diners, Drive-Ins, and Dives
 * [Try Playing](./assets/unity/FeedTheFieriWebBuild/feedthefieri.html)
 
-[![Ciaran Fontein](/assets/img/FeedTheFieriScreenShot.jpg)](./assets/unity/FeedTheFieriWebBuild/feedthefieri.html)
+[![Ciaran Fontein](/assets/img/FeedTheFieriScreenshot.jpg)](./assets/unity/FeedTheFieriWebBuild/feedthefieri.html)
