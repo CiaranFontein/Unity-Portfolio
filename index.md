@@ -52,3 +52,11 @@ layout: default
 * Runs smooth with visible framerate and tested with ambient animated grasses and has disabled animations and rendering for offscreen objects.
 * When run you can see low fidelity and high fidelity sprites and how they can be mismatched for players to create customized units to fulfill combat and utility roles to progress through the game and complete objectives.
 * [Try Playing (work in progress)](./assets/unity/FeralModularityWebBuild/feralmodularity.html)
+
+## Green Gold
+
+[![Green Gold Screenshot](/assets/img/GreenGoldScreenshot.jpg)](./assets/unity/GreenGoldWebBuild/greengold.html)
+
+* Customize the look and stats of your character in the character creation screen (with imported name lists into randomizer)
+* Loads 2000 individual sprites to form the map (you may recognize it as the north shore of Vancouver, the funny shaped island on the bottom left is Stanley Park and the big river near the middle right is the Indian Arm)
+* Gameplay similar to Europa Universalis but with national army combat replaced with you trying to run a logging company
