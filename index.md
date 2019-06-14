@@ -51,4 +51,4 @@ layout: default
 * When run you can see low fidelity and high fidelity sprites and how they can be mismatched for players to create customized units to fulfill combat and utility roles to progress through the game and complete objectives.
 * [Try Playing (work in progress)](./assets/unity/FeralModularityWebBuild/feralmodularity.html)
 
-[![Feral Modularity Screenshot](/assets/img/FeedTheFieriScreenshot.jpg)](./assets/unity/FeralModularityWebBuild/feralmodularity.html)
+[![Feral Modularity Screenshot](/assets/img/FeralModularityScreenshot.jpg)](./assets/unity/FeralModularityWebBuild/feralmodularity.html)
