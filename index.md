@@ -49,4 +49,6 @@ layout: default
 * Advanced UI and menu opened with hotkeys (M, I, Q, O, and Y, corresponding to their function name) and using a tab system to organize
 * Runs smooth with visible framerate and tested with ambient animated grasses and has disabled animations and rendering for offscreen objects.
 * When run you can see low fidelity and high fidelity sprites and how they can be mismatched for players to create customized units to fulfill combat and utility roles to progress through the game and complete objectives.
-* [Try Playing](./assets/unity/FeralModularityWebBuild/feralmodularity.html)
+* [Try Playing (work in progress)](./assets/unity/FeralModularityWebBuild/feralmodularity.html)
+
+[![Feral Modularity Screenshot](/assets/img/FeedTheFieriScreenshot.jpg)](./assets/unity/FeralModularityWebBuild/feralmodularity.html)
