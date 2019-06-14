@@ -74,4 +74,4 @@ layout: default
 * The uploaded build here was done by myself using the Unity engine after the Game Jam for deployment ease
 * Played by 2 players cooperatively using gamepad controllers (No keyboard/mouse controls in the uploaded build)
 * Each player controls 2 tentacles and must figure out how to rotate the tentacles they are responsible for in order to fit the quadrupus through the gates
-* [Try Playing (work in progress)](./assets/unity/QuadrapusWebBuild/quadrapus.html)
+* [Try Playing (not actually playable lol)](./assets/unity/QuadrapusWebBuild/quadrapus.html)
