@@ -53,6 +53,8 @@ layout: default
 * When run you can see low fidelity and high fidelity sprites and how they can be mismatched for players to create customized units to fulfill combat and utility roles to progress through the game and complete objectives.
 * [Try Playing (work in progress)](./assets/unity/FeralModularityWebBuild/feralmodularity.html)
 
+* * *
+
 ## Green Gold
 
 [![Green Gold Screenshot](/assets/img/GreenGoldScreenshot.jpg)](./assets/unity/GreenGoldWebBuild/greengold.html)
@@ -60,3 +62,16 @@ layout: default
 * Customize the look and stats of your character in the character creation screen (with imported name lists into randomizer)
 * Loads 2000 individual sprites to form the map (you may recognize it as the north shore of Vancouver, the funny shaped island on the bottom left is Stanley Park and the big river near the middle right is the Indian Arm)
 * Gameplay similar to Europa Universalis but with national army combat replaced with you trying to run a logging company
+* [Try Playing (work in progress)](./assets/unity/GreenGoldWebBuild/greengold.html)
+
+* * *
+
+## Quadrapus
+
+[![Quadrapus Screenshot](/assets/img/QuadrapusScreenshot.jpg)](./assets/unity/QuadrapusWebBuild/quadrapus.html)
+
+* Game Jam game completed in 48 hours on the Godot engine with a team of 3 (2 programmers including myself and 1 artist)
+* The uploaded build here was done by myself using the Unity engine after the Game Jam for deployment ease
+* Played by 2 players cooperatively using gamepad controllers (No keyboard/mouse controls in the uploaded build)
+* Each player controls 2 tentacles and must figure out how to rotate the tentacles they are responsible for in order to fit the quadrupus through the gates
+* [Try Playing (work in progress)](./assets/unity/QuadrapusWebBuild/quadrapus.html)
